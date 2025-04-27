@@ -16,7 +16,7 @@ _G.CH = {
     LeftArm = {
         Name= "Accessory (LArm)",
         TextureId = "103757531289975", 
-        Orientation= CFrame.Angles(math.rad(90),math.rad(0),math.rad(90))
+        Orientation= CFrame.Angles(math.rad(0),math.rad(0),math.rad(90))
     },
 
     RightArm = {
