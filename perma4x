@@ -13,12 +13,6 @@ _G.CH = {
         Orientation= CFrame.Angles(math.rad(0),math.rad(0),math.rad(0))
     },
 
-    Head = {
-        Name= "Accessory (big head)",
-        TextureId = "117484156735788",
-        Orientation= CFrame.Angles(math.rad(0),math.rad(0),math.rad(0))
-    },
-
     LeftArm = {
         Name= "Accessory (LArm)",
         TextureId = "103757531289975", 
